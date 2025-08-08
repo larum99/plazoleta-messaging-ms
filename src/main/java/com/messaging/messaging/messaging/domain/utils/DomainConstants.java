@@ -7,6 +7,6 @@ public class DomainConstants {
 
     public static final int CODE_BASE = 100_000;
     public static final int CODE_RANGE = 900_000;
-    public static final String ORDER_READY_CODE_MESSAGE = "Tu código de verificación para reclamar el pedido es: %s";
+    public static final String ORDER_READY_CODE_MESSAGE = "Tu código de verificación para reclamar el pedido es: ";
 
 }
