@@ -1,0 +1,14 @@
+server:
+  port: 8092
+
+spring:
+  application:
+    name: messaging
+
+twilio:
+  account:
+    sid: ${TWILIOSID}
+  auth:
+    token: ${TWILIOTOKEN}
+  phone:
+    number: ${TWILIONUMBER}
